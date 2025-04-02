@@ -32,23 +32,11 @@ Here’s a glimpse of my work—projects that highlight my SQL prowess and dedic
 
 ### **[Analyzing Motorcycle Part Sales]**
 *Description*: Transformed a complex motorcycle parts sales dataset into actionable insights by crafting a precise SQL query. Filtered wholesale orders, standardized months (June-Aug 2021), and calculated net revenue across product lines and warehouses—delivering clean, sorted results for business analysis.
-*Tech*: SQL (GROUP BY, CASE statements, aggregations)  
-*[Link to repo]*: https://github.com/inamuni/inamuni/tree/89a50f43ee49d99a26a67ace3f4ecdaddfbf9cb7/Analyzing%20Motorcycle%20Part%20Sales
+*Tech*: SQL (GROUP BY, CASE statements, aggregations) 
 
-### **[Analytical Query Suite]**  
-*Description*: Designed a set of SQL queries to analyze [specific dataset, e.g., sales/customer data], uncovering [specific insight, e.g., top revenue drivers].  
-*Tech*: SQL (Aggregations, GROUP BY, HAVING)  
-[Link to repo]
-
-### **[Database Optimization Project]**  
-*Description*: Rewrote inefficient SQL queries for a [specific use case, e.g., reporting system], boosting performance and scalability.  
-*Tech*: SQL (Indexes, Subqueries, Query Tuning)  
-[Link to repo]
-
-### **[Data Integrity Pipeline]**  
-*Description*: Built a SQL-based workflow to detect and resolve duplicates, inconsistencies, and missing values in [dataset type].  
-*Tech*: SQL (CTEs, Window Functions)  
-[Link to repo]
+### **[Unicorn Industry Trends Analysis]**  
+**Description**: Empowered an investment firm with insights into high-growth industries by analyzing unicorn data. Pinpointed the top 3 industries producing new unicorns (2019-2021), then delivered detailed trends—unicorn counts and average valuations in billions—using advanced SQL, enhancing portfolio strategy precision.  
+**Tech**: SQL (CTEs, JOINs, aggregations)
 
 ---
 
