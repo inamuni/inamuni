@@ -27,12 +27,13 @@ I’m **Inaam**, a dedicated **Data Analyst** with an unwavering passion for **S
 ---
 
 ## 🚀 Showcase of SQL Excellence
+# My Data Portfolio
 Here’s a glimpse of my work—projects that highlight my SQL prowess and dedication to data.
 
-### **[SQL-Powered Data Transformation]**  
-*Description*: Took a sprawling, error-ridden dataset and used SQL to clean, standardize, and structure it for analysis, reducing processing time by [X%].  
-*Tech*: SQL (Joins, CASE statements, NULL handling)  
-[Link to repo]
+### Analyzing Motorcycle Part Sales
+**Description**: Transformed a complex motorcycle parts sales dataset into actionable insights by crafting a precise SQL query. Filtered wholesale orders, standardized months (June-Aug 2021), and calculated net revenue across product lines and warehouses—delivering clean, sorted results for business analysis. 
+**Tech**: SQL (GROUP BY, CASE statements, aggregations)  
+**[Link to repo]**: https://github.com/inamuni/inamuni/tree/89a50f43ee49d99a26a67ace3f4ecdaddfbf9cb7/Analyzing%20Motorcycle%20Part%20Sales
 
 ### **[Analytical Query Suite]**  
 *Description*: Designed a set of SQL queries to analyze [specific dataset, e.g., sales/customer data], uncovering [specific insight, e.g., top revenue drivers].  
