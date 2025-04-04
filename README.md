@@ -31,12 +31,14 @@ I’m **Inaam**, a dedicated **Data Analyst** with an unwavering passion for **S
 Here’s a glimpse of my work—projects that highlight my SQL prowess and dedication to data.
 
 ### **[Analyzing Motorcycle Part Sales]**
-*Description*: Transformed a complex motorcycle parts sales dataset into actionable insights by crafting a precise SQL query. Filtered wholesale orders, standardized months (June-Aug 2021), and calculated net revenue across product lines and warehouses—delivering clean, sorted results for business analysis.
-*Tech*: SQL (GROUP BY, CASE statements, aggregations) 
+**Description**: Transformed a complex motorcycle parts sales dataset into actionable insights by crafting a precise SQL query. Filtered wholesale orders, standardized months (June-Aug 2021), and calculated net revenue across product lines and warehouses—delivering clean, sorted results for business analysis. 
+**Tech**: SQL (GROUP BY, CASE statements, aggregations) 
+**Link**: https://github.com/inamuni/inamuni/tree/main/Analyzing%20Motorcycle%20Part%20Sales
 
 ### **[Unicorn Industry Trends Analysis]**  
 **Description**: Empowered an investment firm with insights into high-growth industries by analyzing unicorn data. Pinpointed the top 3 industries producing new unicorns (2019-2021), then delivered detailed trends—unicorn counts and average valuations in billions—using advanced SQL, enhancing portfolio strategy precision.  
 **Tech**: SQL (CTEs, JOINs, aggregations)
+**Link**: https://github.com/inamuni/inamuni/tree/main/Unicorn%20Industry%20Trends%20Analysis
 
 ---
 
